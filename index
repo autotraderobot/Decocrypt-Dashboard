@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Final Recovery Details</title>
+</head>
+<body style="font-family: Arial, sans-serif; background-color: #f4f6f8; padding: 20px;">
+  <table width="600" align="center" cellpadding="0" cellspacing="0" style="background-color: #ffffff; border-radius: 8px; overflow: hidden; box-shadow: 0px 2px 8px rgba(0,0,0,0.1);">
+    <tr>
+      <td style="background-color: #1f3b57; padding: 18px; color: #ffffff; text-align: center;">
+        <h1 style="margin: 0; font-size: 18px;">Final Recovery Details – Action Required</h1>
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 18px; color: #333333; font-size: 13px; line-height: 1.5;">
+        <p>Good Day <strong>[Client’s Name]</strong>,</p>
+        <p>Thank you for your prompt reply. We are pleased to confirm that <strong>everything in your recovery process is in perfect order</strong> and your profits are ready for transfer.</p>
+        <p>Your total withdrawal amount stands at <strong style="color: #b8860b;">R2,022,990.17</strong>. In line with our policy, the Recovery Fee is <strong style="color: #b8860b;">R60,531</strong>, of which only <strong style="color: #b8860b;">50% (R30,265)</strong> is required upfront. This payment is our commission for the successful recovery of your funds and is the <strong>final step</strong> in the process.</p>
+        <p>Once the Recovery Fee payment is received, we will <strong>immediately release the full amount of your profits</strong> to your bank account without any further charges or delays. To avoid any hold-up, we recommend settling this payment today so the transfer can be completed promptly.</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="background-color: #f0f0f0; padding: 12px; text-align: center; color: #777777; font-size: 11px;">
+        Best regards,<br>
+        <strong>[Your Name]</strong><br>
+        [Your Position]<br>
+        [Company Name]
+      </td>
+    </tr>
+  </table>
+</body>
+</html>
